@@ -1,0 +1,2 @@
+GET /WeatherForecast => 200
+GET /WeatherForecast/test => 404
