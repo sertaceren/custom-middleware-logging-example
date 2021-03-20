@@ -1,4 +1,6 @@
 # custom-middleware-logging-example
+The project is a middleware example for requests and response logging basics.
+
 This repository contains the accompanying solution and assets for [the article on msHOWTO Community](https://www.mshowto.org/asp-net-core-middleware-bolum-1.html).
 
 ## Usage
